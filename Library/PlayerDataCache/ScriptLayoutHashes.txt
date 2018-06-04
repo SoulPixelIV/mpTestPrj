@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/willi/Desktop/Desktop.exe
+C:/Users/willi/Desktop/test/test.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
